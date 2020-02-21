@@ -17,7 +17,7 @@
  */
 function addRandomGreeting() {
   const greetings =
-      ['What\'s the sich', 'Magnents are cool too', 'Hakuna Matata', 'That was totatally wicked'];
+      ['May favorite color is purple ', 'I am 20 years old', 'Hakuna Matata', 'That was totatally wicked'];
 
   // Pick a random greeting.
   const greeting = greetings[Math.floor(Math.random() * greetings.length)];
